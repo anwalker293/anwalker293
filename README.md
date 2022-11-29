@@ -9,6 +9,16 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 * 🧠  I'm learning penetration testing and cybersecurity
 * 🤝  I'm open to collaborating on projects
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+
 ### Skills
 
 
