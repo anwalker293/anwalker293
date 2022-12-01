@@ -15,10 +15,10 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#28](https://github.com/Indicio-tech/acapy-minimal-example/issues/28) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
-2. 🗣 Commented on [#34](https://github.com/Indicio-tech/acapy-minimal-example/issues/34) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
-3. 💪 Opened PR [#30](https://github.com/Indicio-tech/acapy-minimal-example/pull/30) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
-4. ❌ Closed PR [#29](https://github.com/Indicio-tech/acapy-minimal-example/pull/29) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
-5. 💪 Opened PR [#29](https://github.com/Indicio-tech/acapy-minimal-example/pull/29) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
+2. 💪 Opened PR [#35](https://github.com/Indicio-tech/acapy-minimal-example/pull/35) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
+3. 🗣 Commented on [#28](https://github.com/Indicio-tech/acapy-minimal-example/issues/28) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
+4. 🗣 Commented on [#34](https://github.com/Indicio-tech/acapy-minimal-example/issues/34) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
+5. 💪 Opened PR [#30](https://github.com/Indicio-tech/acapy-minimal-example/pull/30) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
 <!--END_SECTION:activity-->
 
 ---
