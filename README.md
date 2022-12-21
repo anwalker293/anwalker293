@@ -14,11 +14,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/anwalker293/React-Course/pull/1) in [anwalker293/React-Course](https://github.com/anwalker293/React-Course)
-2. 💪 Opened PR [#1](https://github.com/anwalker293/React-Course/pull/1) in [anwalker293/React-Course](https://github.com/anwalker293/React-Course)
-3. ❌ Closed PR [#36](https://github.com/Indicio-tech/acapy-minimal-example/pull/36) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
-4. ❌ Closed PR [#44](https://github.com/Indicio-tech/acapy-minimal-example/pull/44) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
-5. 🎉 Merged PR [#8](https://github.com/anwalker293/acapy-minimal-example/pull/8) in [anwalker293/acapy-minimal-example](https://github.com/anwalker293/acapy-minimal-example)
+1. 🎉 Merged PR [#1](https://github.com/anwalker293/light-dark-mode/pull/1) in [anwalker293/light-dark-mode](https://github.com/anwalker293/light-dark-mode)
+2. 💪 Opened PR [#1](https://github.com/anwalker293/light-dark-mode/pull/1) in [anwalker293/light-dark-mode](https://github.com/anwalker293/light-dark-mode)
+3. 🎉 Merged PR [#1](https://github.com/anwalker293/Notes/pull/1) in [anwalker293/Notes](https://github.com/anwalker293/Notes)
+4. 💪 Opened PR [#1](https://github.com/anwalker293/Notes/pull/1) in [anwalker293/Notes](https://github.com/anwalker293/Notes)
+5. 🎉 Merged PR [#1](https://github.com/anwalker293/React-Course/pull/1) in [anwalker293/React-Course](https://github.com/anwalker293/React-Course)
 <!--END_SECTION:activity-->
 
 ---
