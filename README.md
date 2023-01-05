@@ -14,11 +14,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/anwalker293/spok-rock/pull/1) in [anwalker293/spok-rock](https://github.com/anwalker293/spok-rock)
-2. 💪 Opened PR [#1](https://github.com/anwalker293/spok-rock/pull/1) in [anwalker293/spok-rock](https://github.com/anwalker293/spok-rock)
-3. 🎉 Merged PR [#3](https://github.com/anwalker293/Notes/pull/3) in [anwalker293/Notes](https://github.com/anwalker293/Notes)
-4. 💪 Opened PR [#3](https://github.com/anwalker293/Notes/pull/3) in [anwalker293/Notes](https://github.com/anwalker293/Notes)
-5. 🎉 Merged PR [#2](https://github.com/anwalker293/Notes/pull/2) in [anwalker293/Notes](https://github.com/anwalker293/Notes)
+1. 🎉 Merged PR [#4](https://github.com/anwalker293/Notes/pull/4) in [anwalker293/Notes](https://github.com/anwalker293/Notes)
+2. 💪 Opened PR [#4](https://github.com/anwalker293/Notes/pull/4) in [anwalker293/Notes](https://github.com/anwalker293/Notes)
+3. 🎉 Merged PR [#1](https://github.com/anwalker293/spok-rock/pull/1) in [anwalker293/spok-rock](https://github.com/anwalker293/spok-rock)
+4. 💪 Opened PR [#1](https://github.com/anwalker293/spok-rock/pull/1) in [anwalker293/spok-rock](https://github.com/anwalker293/spok-rock)
+5. 🎉 Merged PR [#3](https://github.com/anwalker293/Notes/pull/3) in [anwalker293/Notes](https://github.com/anwalker293/Notes)
 <!--END_SECTION:activity-->
 
 ---
