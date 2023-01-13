@@ -14,11 +14,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox/issues/71) in [Indicio-tech/aries-acapy-plugin-toolbox](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox)
-2. ❌ Reopened PR [#71](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox/pull/71) in [Indicio-tech/aries-acapy-plugin-toolbox](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox)
-3. ❌ Closed PR [#71](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox/pull/71) in [Indicio-tech/aries-acapy-plugin-toolbox](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox)
-4. 💪 Opened PR [#71](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox/pull/71) in [Indicio-tech/aries-acapy-plugin-toolbox](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox)
-5. ❌ Closed PR [#70](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox/pull/70) in [Indicio-tech/aries-acapy-plugin-toolbox](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox)
+1. 🎉 Merged PR [#2](https://github.com/anwalker293/React-Course/pull/2) in [anwalker293/React-Course](https://github.com/anwalker293/React-Course)
+2. 💪 Opened PR [#2](https://github.com/anwalker293/React-Course/pull/2) in [anwalker293/React-Course](https://github.com/anwalker293/React-Course)
+3. 🗣 Commented on [#71](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox/issues/71) in [Indicio-tech/aries-acapy-plugin-toolbox](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox)
+4. ❌ Reopened PR [#71](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox/pull/71) in [Indicio-tech/aries-acapy-plugin-toolbox](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox)
+5. ❌ Closed PR [#71](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox/pull/71) in [Indicio-tech/aries-acapy-plugin-toolbox](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox)
 <!--END_SECTION:activity-->
 
 ---
