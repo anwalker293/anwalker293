@@ -43,15 +43,6 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 
 <p align="left"> <a href="https://www.github.com/anwalker293" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/alexwalkerflute" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexandra-n-walker/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Languages
-<p>
-<img src="https://imgs.search.brave.com/2Pnen4aIqC8E6Cb6rzVhJn-qCsHgfNlSeFHLoUGjQds/rs:fit:160:160:1/g:ce/aHR0cHM6Ly93d3cu/ZW1vamliYXNlLmNv/bS9yZXNvdXJjZXMv/aW1nL2Vtb2ppcy9h/cHBsZS94MWYxZmEt/MWYxZjgucG5nLnBh/Z2VzcGVlZC5pYy5E/Z2RhQVk4RG5mLnBu/Zw" width="36" height="36" alt="English" /></a>
-<img src="https://imgs.search.brave.com/v-PxFDPIIZxD6mB5Mja0rMhNCoYEnJ4-GnvRTmDpSp8/rs:fit:160:160:1/g:ce/aHR0cHM6Ly9mbGFn/cGVkaWEubmV0L2Rh/dGEvZmxhZ3MvZW1v/amkvYXBwbGUvMTYw/eDE2MC9lcy5wbmc" width="36" height="36" alt="Spanish" /></a>
-<img src="https://imgs.search.brave.com/ZHuJefkX8ro1xnI7UDKtzY03N4wcciXIau5nq1HMzx8/rs:fit:250:167:1/g:ce/aHR0cDovL2Nkbi5j/b3VudHJ5ZmxhZ3Mu/Y29tL3RodW1icy9h/bGJhbmlhL2ZsYWct/d2F2aW5nLTI1MC5w/bmc" width="50" height="36" alt="Albanian" /></a>
-<img src="https://imgs.search.brave.com/F92nrUm6uc09dwDFDgMYAsFHYkSplDNfCSQdr7zrG7k/rs:fit:160:160:1/g:ce/aHR0cHM6Ly9lbW9q/aXBlZGlhLXVzLnMz/LmR1YWxzdGFjay51/cy13ZXN0LTEuYW1h/em9uYXdzLmNvbS90/aHVtYnMvMTYwL2Zh/Y2Vib29rLzE1OC9m/bGFnLWZvci1mcmFu/Y2VfMWYxZWItMWYx/ZjcucG5n" width="36" height="36" alt="French" /></a>
-<img src="https://imgs.search.brave.com/SeNWn0jeWMOEGpV1vNCKpViCXxe34zt7jQsHgDQkvtA/rs:fit:120:120:1/g:ce/aHR0cHM6Ly9lbW9q/aXBlZGlhLXVzLnMz/LmR1YWxzdGFjay51/cy13ZXN0LTEuYW1h/em9uYXdzLmNvbS90/aHVtYnMvMTIwL2Zh/Y2Vib29rLzE1OC9m/bGFnLWZvci1nZXJt/YW55XzFmMWU5LTFm/MWVhLnBuZw" width="36" height="36" alt="German" /></a>
-</p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
