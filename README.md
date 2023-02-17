@@ -14,11 +14,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/anwalker293/aries-rfcs/pull/2) in [anwalker293/aries-rfcs](https://github.com/anwalker293/aries-rfcs)
-2. 💪 Opened PR [#2](https://github.com/anwalker293/aries-rfcs/pull/2) in [anwalker293/aries-rfcs](https://github.com/anwalker293/aries-rfcs)
-3. 🎉 Merged PR [#1](https://github.com/anwalker293/aries-rfcs/pull/1) in [anwalker293/aries-rfcs](https://github.com/anwalker293/aries-rfcs)
-4. 💪 Opened PR [#1](https://github.com/anwalker293/aries-rfcs/pull/1) in [anwalker293/aries-rfcs](https://github.com/anwalker293/aries-rfcs)
-5. 🎉 Merged PR [#13](https://github.com/anwalker293/tech-travel-plus/pull/13) in [anwalker293/tech-travel-plus](https://github.com/anwalker293/tech-travel-plus)
+1. 🗣 Commented on [#769](https://github.com/hyperledger/aries-rfcs/issues/769) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+2. 💪 Opened PR [#769](https://github.com/hyperledger/aries-rfcs/pull/769) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+3. 🎉 Merged PR [#14](https://github.com/anwalker293/tech-travel-plus/pull/14) in [anwalker293/tech-travel-plus](https://github.com/anwalker293/tech-travel-plus)
+4. 💪 Opened PR [#14](https://github.com/anwalker293/tech-travel-plus/pull/14) in [anwalker293/tech-travel-plus](https://github.com/anwalker293/tech-travel-plus)
+5. 🎉 Merged PR [#4](https://github.com/anwalker293/aries-rfcs/pull/4) in [anwalker293/aries-rfcs](https://github.com/anwalker293/aries-rfcs)
 <!--END_SECTION:activity-->
 
 ---
