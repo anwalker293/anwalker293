@@ -14,11 +14,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#73](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox/pull/73) in [Indicio-tech/aries-acapy-plugin-toolbox](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox)
-2. 🎉 Merged PR [#16](https://github.com/anwalker293/tech-travel-plus/pull/16) in [anwalker293/tech-travel-plus](https://github.com/anwalker293/tech-travel-plus)
-3. 💪 Opened PR [#16](https://github.com/anwalker293/tech-travel-plus/pull/16) in [anwalker293/tech-travel-plus](https://github.com/anwalker293/tech-travel-plus)
-4. 🎉 Merged PR [#15](https://github.com/anwalker293/tech-travel-plus/pull/15) in [anwalker293/tech-travel-plus](https://github.com/anwalker293/tech-travel-plus)
-5. 💪 Opened PR [#15](https://github.com/anwalker293/tech-travel-plus/pull/15) in [anwalker293/tech-travel-plus](https://github.com/anwalker293/tech-travel-plus)
+1. ❌ Closed PR [#73](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox/pull/73) in [Indicio-tech/aries-acapy-plugin-toolbox](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox)
+2. 💪 Opened PR [#73](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox/pull/73) in [Indicio-tech/aries-acapy-plugin-toolbox](https://github.com/Indicio-tech/aries-acapy-plugin-toolbox)
+3. 🎉 Merged PR [#16](https://github.com/anwalker293/tech-travel-plus/pull/16) in [anwalker293/tech-travel-plus](https://github.com/anwalker293/tech-travel-plus)
+4. 💪 Opened PR [#16](https://github.com/anwalker293/tech-travel-plus/pull/16) in [anwalker293/tech-travel-plus](https://github.com/anwalker293/tech-travel-plus)
+5. 🎉 Merged PR [#15](https://github.com/anwalker293/tech-travel-plus/pull/15) in [anwalker293/tech-travel-plus](https://github.com/anwalker293/tech-travel-plus)
 <!--END_SECTION:activity-->
 
 ---
