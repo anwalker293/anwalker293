@@ -14,11 +14,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#306](https://github.com/hyperledger/aries-toolbox/issues/306) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
-2. 🗣 Commented on [#308](https://github.com/hyperledger/aries-toolbox/issues/308) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
-3. 💪 Opened PR [#313](https://github.com/hyperledger/aries-toolbox/pull/313) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
-4. 💪 Opened PR [#304](https://github.com/hyperledger/aries-toolbox/pull/304) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
-5. 💪 Opened PR [#2166](https://github.com/hyperledger/aries-cloudagent-python/pull/2166) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#2166](https://github.com/hyperledger/aries-cloudagent-python/issues/2166) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. ❌ Reopened PR [#2166](https://github.com/hyperledger/aries-cloudagent-python/pull/2166) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. ❌ Closed PR [#2166](https://github.com/hyperledger/aries-cloudagent-python/pull/2166) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+4. 🗣 Commented on [#306](https://github.com/hyperledger/aries-toolbox/issues/306) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
+5. 🗣 Commented on [#308](https://github.com/hyperledger/aries-toolbox/issues/308) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
 <!--END_SECTION:activity-->
 
 ---
