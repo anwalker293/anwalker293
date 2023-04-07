@@ -14,11 +14,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Indicio-tech/acapy-plugin-template/pull/2) in [Indicio-tech/acapy-plugin-template](https://github.com/Indicio-tech/acapy-plugin-template)
-2. 🗣 Commented on [#312](https://github.com/hyperledger/aries-toolbox/issues/312) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
-3. 🗣 Commented on [#311](https://github.com/hyperledger/aries-toolbox/issues/311) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
-4. 🗣 Commented on [#310](https://github.com/hyperledger/aries-toolbox/issues/310) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
-5. 🗣 Commented on [#309](https://github.com/hyperledger/aries-toolbox/issues/309) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
+1. 🎉 Merged PR [#2](https://github.com/Indicio-tech/acapy-plugin-template/pull/2) in [Indicio-tech/acapy-plugin-template](https://github.com/Indicio-tech/acapy-plugin-template)
+2. 💪 Opened PR [#2](https://github.com/Indicio-tech/acapy-plugin-template/pull/2) in [Indicio-tech/acapy-plugin-template](https://github.com/Indicio-tech/acapy-plugin-template)
+3. 🗣 Commented on [#312](https://github.com/hyperledger/aries-toolbox/issues/312) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
+4. 🗣 Commented on [#311](https://github.com/hyperledger/aries-toolbox/issues/311) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
+5. 🗣 Commented on [#310](https://github.com/hyperledger/aries-toolbox/issues/310) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
 <!--END_SECTION:activity-->
 
 ---
