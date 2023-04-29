@@ -14,11 +14,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/Indicio-tech/acapy-plugin-qa/issues/7) in [Indicio-tech/acapy-plugin-qa](https://github.com/Indicio-tech/acapy-plugin-qa)
-2. 💪 Opened PR [#37](https://github.com/Indicio-tech/proxy-mediator/pull/37) in [Indicio-tech/proxy-mediator](https://github.com/Indicio-tech/proxy-mediator)
-3. 🗣 Commented on [#2166](https://github.com/hyperledger/aries-cloudagent-python/issues/2166) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 💪 Opened PR [#4](https://github.com/Indicio-tech/acapy-webhook-example/pull/4) in [Indicio-tech/acapy-webhook-example](https://github.com/Indicio-tech/acapy-webhook-example)
-5. 🎉 Merged PR [#1](https://github.com/anwalker293/aries-cloudagent-python/pull/1) in [anwalker293/aries-cloudagent-python](https://github.com/anwalker293/aries-cloudagent-python)
+1. 🗣 Commented on [#37](https://github.com/Indicio-tech/proxy-mediator/issues/37) in [Indicio-tech/proxy-mediator](https://github.com/Indicio-tech/proxy-mediator)
+2. 🗣 Commented on [#7](https://github.com/Indicio-tech/acapy-plugin-qa/issues/7) in [Indicio-tech/acapy-plugin-qa](https://github.com/Indicio-tech/acapy-plugin-qa)
+3. 💪 Opened PR [#37](https://github.com/Indicio-tech/proxy-mediator/pull/37) in [Indicio-tech/proxy-mediator](https://github.com/Indicio-tech/proxy-mediator)
+4. 🗣 Commented on [#2166](https://github.com/hyperledger/aries-cloudagent-python/issues/2166) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 💪 Opened PR [#4](https://github.com/Indicio-tech/acapy-webhook-example/pull/4) in [Indicio-tech/acapy-webhook-example](https://github.com/Indicio-tech/acapy-webhook-example)
 <!--END_SECTION:activity-->
 
 ---
