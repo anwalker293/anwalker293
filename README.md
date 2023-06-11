@@ -14,11 +14,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/Indicio-tech/acapy-plugin-pickup/pull/36) in [Indicio-tech/acapy-plugin-pickup](https://github.com/Indicio-tech/acapy-plugin-pickup)
-2. 🗣 Commented on [#37](https://github.com/Indicio-tech/proxy-mediator/issues/37) in [Indicio-tech/proxy-mediator](https://github.com/Indicio-tech/proxy-mediator)
-3. 🗣 Commented on [#7](https://github.com/Indicio-tech/acapy-plugin-qa/issues/7) in [Indicio-tech/acapy-plugin-qa](https://github.com/Indicio-tech/acapy-plugin-qa)
-4. 💪 Opened PR [#37](https://github.com/Indicio-tech/proxy-mediator/pull/37) in [Indicio-tech/proxy-mediator](https://github.com/Indicio-tech/proxy-mediator)
-5. 🗣 Commented on [#2166](https://github.com/hyperledger/aries-cloudagent-python/issues/2166) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#47](https://github.com/Indicio-tech/acapy-minimal-example/issues/47) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
+2. 🗣 Commented on [#37](https://github.com/Indicio-tech/acapy-plugin-pickup/issues/37) in [Indicio-tech/acapy-plugin-pickup](https://github.com/Indicio-tech/acapy-plugin-pickup)
+3. 🗣 Commented on [#3](https://github.com/Indicio-tech/acapy-plugin-template/issues/3) in [Indicio-tech/acapy-plugin-template](https://github.com/Indicio-tech/acapy-plugin-template)
+4. 🗣 Commented on [#47](https://github.com/Indicio-tech/acapy-minimal-example/issues/47) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
+5. 💪 Opened PR [#3](https://github.com/Indicio-tech/acapy-plugin-template/pull/3) in [Indicio-tech/acapy-plugin-template](https://github.com/Indicio-tech/acapy-plugin-template)
 <!--END_SECTION:activity-->
 
 ---
