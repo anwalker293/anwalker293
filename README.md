@@ -14,11 +14,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Indicio-tech/aries-mediator-service/issues/3) in [Indicio-tech/aries-mediator-service](https://github.com/Indicio-tech/aries-mediator-service)
+1. ❌ Closed PR [#3](https://github.com/Indicio-tech/aries-mediator-service/pull/3) in [Indicio-tech/aries-mediator-service](https://github.com/Indicio-tech/aries-mediator-service)
 2. 🗣 Commented on [#3](https://github.com/Indicio-tech/aries-mediator-service/issues/3) in [Indicio-tech/aries-mediator-service](https://github.com/Indicio-tech/aries-mediator-service)
-3. 🗣 Commented on [#3](https://github.com/Indicio-tech/aries-mediator-service/issues/3) in [Indicio-tech/aries-mediator-service](https://github.com/Indicio-tech/aries-mediator-service)
-4. 💪 Opened PR [#3](https://github.com/Indicio-tech/aries-mediator-service/pull/3) in [Indicio-tech/aries-mediator-service](https://github.com/Indicio-tech/aries-mediator-service)
-5. 🗣 Commented on [#47](https://github.com/Indicio-tech/acapy-minimal-example/issues/47) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
+3. 🗣 Commented on [#4](https://github.com/Indicio-tech/aries-mediator-service/issues/4) in [Indicio-tech/aries-mediator-service](https://github.com/Indicio-tech/aries-mediator-service)
+4. 💪 Opened PR [#4](https://github.com/Indicio-tech/aries-mediator-service/pull/4) in [Indicio-tech/aries-mediator-service](https://github.com/Indicio-tech/aries-mediator-service)
+5. 🗣 Commented on [#3](https://github.com/Indicio-tech/aries-mediator-service/issues/3) in [Indicio-tech/aries-mediator-service](https://github.com/Indicio-tech/aries-mediator-service)
 <!--END_SECTION:activity-->
 
 ---
