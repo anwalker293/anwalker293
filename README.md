@@ -3,7 +3,7 @@ Hi! I'm Alex!![](https://user-images.githubusercontent.com/18350557/176309783-07
 
 I am a 2022 alumna from Willamette University, with a BS in physics and BA with a double major in mathematics and politics. Some of my undergraduate research consisted of my theses in physics (Predicting Spiral Galaxy Inclinations Using Machine Learning Models), mathematics (Isometric Fixing Numbers of Graphs), and politics (Ameliorating the Poverty-to-Prison Pipeline in Oregon). Presently, I am interested in working in astronomy and cosmology to combine my skills and interests in physics, mathematics, and data science.
 
-* 🌍  I'm presently based in Tirana, Albania
+* 🌍  I'm presently based in Portland, Oregon
 * ✉️  You can contact me at [alexwalker293@gmail.com](mailto:alexwalker293@gmail.com)
 * 🚀  I'm currently working on performance testing and sharpening my data structures and algorithms skills
 * 🧠  I'm learning Three.js
