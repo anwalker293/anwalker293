@@ -5,8 +5,8 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 
 * 🌍  I'm presently based in Tirana, Albania
 * ✉️  You can contact me at [alexwalker293@gmail.com](mailto:alexwalker293@gmail.com)
-* 🚀  I'm currently working on [Google's Associate Cloud Engineer Certificate](http://cloud.google.com/certification/cloud-engineer)
-* 🧠  I'm learning penetration testing and cybersecurity
+* 🚀  I'm currently working on performance testing and sharpening my data structures and algorithms skills
+* 🧠  I'm learning Three.js
 * 🤝  I'm open to collaborating on projects
 
 ---
