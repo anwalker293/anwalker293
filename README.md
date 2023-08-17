@@ -14,11 +14,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/Indicio-tech/aries-acapy-cache-redis/pull/10) in [Indicio-tech/aries-acapy-cache-redis](https://github.com/Indicio-tech/aries-acapy-cache-redis)
-2. 🗣 Commented on [#54](https://github.com/Indicio-tech/acapy-minimal-example/issues/54) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
-3. 🗣 Commented on [#515](https://github.com/dylanaraps/pywal/issues/515) in [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
-4. 💪 Opened PR [#49](https://github.com/Indicio-tech/acapy-minimal-example/pull/49) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
-5. 🗣 Commented on [#6](https://github.com/Indicio-tech/aries-acapy-plugin-data-transfer/issues/6) in [Indicio-tech/aries-acapy-plugin-data-transfer](https://github.com/Indicio-tech/aries-acapy-plugin-data-transfer)
+1. 💪 Opened PR [#7](https://github.com/Indicio-tech/aries-acapy-plugin-data-transfer/pull/7) in [Indicio-tech/aries-acapy-plugin-data-transfer](https://github.com/Indicio-tech/aries-acapy-plugin-data-transfer)
+2. 🗣 Commented on [#40](https://github.com/Indicio-tech/proxy-mediator/issues/40) in [Indicio-tech/proxy-mediator](https://github.com/Indicio-tech/proxy-mediator)
+3. 💪 Opened PR [#10](https://github.com/Indicio-tech/aries-acapy-cache-redis/pull/10) in [Indicio-tech/aries-acapy-cache-redis](https://github.com/Indicio-tech/aries-acapy-cache-redis)
+4. 🗣 Commented on [#54](https://github.com/Indicio-tech/acapy-minimal-example/issues/54) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
+5. 🗣 Commented on [#515](https://github.com/dylanaraps/pywal/issues/515) in [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
 <!--END_SECTION:activity-->
 
 ---
