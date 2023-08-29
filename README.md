@@ -14,11 +14,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Indicio-tech/aries-mediator-service/pull/5) in [Indicio-tech/aries-mediator-service](https://github.com/Indicio-tech/aries-mediator-service)
-2. 🗣 Commented on [#4](https://github.com/Indicio-tech/aries-mediator-service/issues/4) in [Indicio-tech/aries-mediator-service](https://github.com/Indicio-tech/aries-mediator-service)
-3. 🎉 Merged PR [#1](https://github.com/anwalker293/aries-mediator-service/pull/1) in [anwalker293/aries-mediator-service](https://github.com/anwalker293/aries-mediator-service)
-4. 💪 Opened PR [#1](https://github.com/anwalker293/aries-mediator-service/pull/1) in [anwalker293/aries-mediator-service](https://github.com/anwalker293/aries-mediator-service)
-5. 💪 Opened PR [#11](https://github.com/Indicio-tech/aries-acapy-cache-redis/pull/11) in [Indicio-tech/aries-acapy-cache-redis](https://github.com/Indicio-tech/aries-acapy-cache-redis)
+1. 💪 Opened PR [#56](https://github.com/Indicio-tech/acapy-minimal-example/pull/56) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
+2. 💪 Opened PR [#3](https://github.com/anwalker293/acapy-minimal-example/pull/3) in [anwalker293/acapy-minimal-example](https://github.com/anwalker293/acapy-minimal-example)
+3. 💪 Opened PR [#5](https://github.com/Indicio-tech/aries-mediator-service/pull/5) in [Indicio-tech/aries-mediator-service](https://github.com/Indicio-tech/aries-mediator-service)
+4. 🗣 Commented on [#4](https://github.com/Indicio-tech/aries-mediator-service/issues/4) in [Indicio-tech/aries-mediator-service](https://github.com/Indicio-tech/aries-mediator-service)
+5. 🎉 Merged PR [#1](https://github.com/anwalker293/aries-mediator-service/pull/1) in [anwalker293/aries-mediator-service](https://github.com/anwalker293/aries-mediator-service)
 <!--END_SECTION:activity-->
 
 ---
