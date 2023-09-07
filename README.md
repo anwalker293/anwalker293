@@ -14,11 +14,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#151](https://github.com/Indicio-tech/aries-cloudagent-python/pull/151) in [Indicio-tech/aries-cloudagent-python](https://github.com/Indicio-tech/aries-cloudagent-python)
-2. 🗣 Commented on [#56](https://github.com/Indicio-tech/acapy-minimal-example/issues/56) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
-3. 💪 Opened PR [#56](https://github.com/Indicio-tech/acapy-minimal-example/pull/56) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
-4. 💪 Opened PR [#3](https://github.com/anwalker293/acapy-minimal-example/pull/3) in [anwalker293/acapy-minimal-example](https://github.com/anwalker293/acapy-minimal-example)
-5. 💪 Opened PR [#5](https://github.com/Indicio-tech/aries-mediator-service/pull/5) in [Indicio-tech/aries-mediator-service](https://github.com/Indicio-tech/aries-mediator-service)
+1. 🗣 Commented on [#2461](https://github.com/hyperledger/aries-cloudagent-python/issues/2461) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. 💪 Opened PR [#12](https://github.com/Indicio-tech/aries-acapy-cache-redis/pull/12) in [Indicio-tech/aries-acapy-cache-redis](https://github.com/Indicio-tech/aries-acapy-cache-redis)
+3. 💪 Opened PR [#57](https://github.com/Indicio-tech/acapy-minimal-example/pull/57) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
+4. 💪 Opened PR [#2461](https://github.com/hyperledger/aries-cloudagent-python/pull/2461) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 💪 Opened PR [#151](https://github.com/Indicio-tech/aries-cloudagent-python/pull/151) in [Indicio-tech/aries-cloudagent-python](https://github.com/Indicio-tech/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
