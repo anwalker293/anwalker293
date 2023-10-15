@@ -14,11 +14,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2502](https://github.com/hyperledger/aries-cloudagent-python/pull/2502) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 💪 Opened PR [#153](https://github.com/Indicio-tech/aries-cloudagent-python/pull/153) in [Indicio-tech/aries-cloudagent-python](https://github.com/Indicio-tech/aries-cloudagent-python)
-3. 🗣 Commented on [#2461](https://github.com/hyperledger/aries-cloudagent-python/issues/2461) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 💪 Opened PR [#12](https://github.com/Indicio-tech/aries-acapy-cache-redis/pull/12) in [Indicio-tech/aries-acapy-cache-redis](https://github.com/Indicio-tech/aries-acapy-cache-redis)
-5. 💪 Opened PR [#57](https://github.com/Indicio-tech/acapy-minimal-example/pull/57) in [Indicio-tech/acapy-minimal-example](https://github.com/Indicio-tech/acapy-minimal-example)
+1. 💪 Opened PR [#9](https://github.com/Indicio-tech/aries-akrida/pull/9) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
+2. ❌ Closed PR [#8](https://github.com/Indicio-tech/aries-akrida/pull/8) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
+3. 💪 Opened PR [#8](https://github.com/Indicio-tech/aries-akrida/pull/8) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
+4. 💪 Opened PR [#2502](https://github.com/hyperledger/aries-cloudagent-python/pull/2502) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 💪 Opened PR [#153](https://github.com/Indicio-tech/aries-cloudagent-python/pull/153) in [Indicio-tech/aries-cloudagent-python](https://github.com/Indicio-tech/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
