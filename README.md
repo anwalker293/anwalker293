@@ -14,11 +14,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/Indicio-tech/aries-akrida/pull/11) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
-2. 🗣 Commented on [#6](https://github.com/Indicio-tech/aries-mediator-service/issues/6) in [Indicio-tech/aries-mediator-service](https://github.com/Indicio-tech/aries-mediator-service)
-3. 🎉 Merged PR [#10](https://github.com/Indicio-tech/aries-akrida/pull/10) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
-4. 💪 Opened PR [#9](https://github.com/Indicio-tech/aries-akrida/pull/9) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
-5. ❌ Closed PR [#8](https://github.com/Indicio-tech/aries-akrida/pull/8) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
+1. 🗣 Commented on [#11](https://github.com/Indicio-tech/aries-akrida/issues/11) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
+2. 💪 Opened PR [#12](https://github.com/Indicio-tech/aries-akrida/pull/12) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
+3. 💪 Opened PR [#11](https://github.com/Indicio-tech/aries-akrida/pull/11) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
+4. 🗣 Commented on [#6](https://github.com/Indicio-tech/aries-mediator-service/issues/6) in [Indicio-tech/aries-mediator-service](https://github.com/Indicio-tech/aries-mediator-service)
+5. 🎉 Merged PR [#10](https://github.com/Indicio-tech/aries-akrida/pull/10) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
 <!--END_SECTION:activity-->
 
 ---
