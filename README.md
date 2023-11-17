@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=31&duration=2500&pause=1000&color=ACBFE6&random=false&width=435&lines=Welcome+to+my+profile+!)](https://git.io/typing-svg)
-
 Hi! I'm Alex!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=31&duration=2500&pause=1000&color=ACBFE6&random=false&width=435&lines=Welcome+to+my+profile+!)](https://git.io/typing-svg)
 
 I'm a QA engineer at Indicio, with a strong foundation in physics, mathematics, and politics from my alma mater, Willamette University. My academic journey included diverse research topics, such as predicting spiral galaxy inclinations using machine learning models, exploring isometric fixing numbers of graphs, and addressing the poverty-to-prison pipeline in Oregon.
 
