@@ -1,12 +1,16 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=31&duration=2500&pause=1000&color=ACBFE6&random=false&width=435&lines=Welcome+to+my+profile+!)](https://git.io/typing-svg)
+
 Hi! I'm Alex!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 
-I am a 2022 alumna from Willamette University, with a BS in physics and BA with a double major in mathematics and politics. Some of my undergraduate research consisted of my theses in physics (Predicting Spiral Galaxy Inclinations Using Machine Learning Models), mathematics (Isometric Fixing Numbers of Graphs), and politics (Ameliorating the Poverty-to-Prison Pipeline in Oregon). Presently, I am interested in working in astronomy and cosmology to combine my skills and interests in physics, mathematics, and data science.
+I'm a QA engineer at Indicio, with a strong foundation in physics, mathematics, and politics from my alma mater, Willamette University. My academic journey included diverse research topics, such as predicting spiral galaxy inclinations using machine learning models, exploring isometric fixing numbers of graphs, and addressing the poverty-to-prison pipeline in Oregon.
+
+In my professional life, I've had the privilege of contributing to open-source projects, including building the 'aries-akrida' repository for the Government of British Columbia and helping build and maintain Aries Cloud Agent Python (ACA-Py). I'm excited to continue expanding my skills in software development and exploring new opportunities in astronomy, cosmology, and beyond.
 
 * 🌍  I'm presently based in Portland, Oregon
 * ✉️  You can contact me at [alexwalker293@gmail.com](mailto:alexwalker293@gmail.com)
 * 🚀  I'm currently working on sharpening my data structures and algorithms skills
-* 🧠  I'm learning Three.js
+* 🖥️  I'm learning Three.js
 * 🤝  I'm open to collaborating on projects
 
 ---
@@ -28,15 +32,11 @@ I am a 2022 alumna from Willamette University, with a BS in physics and BA with 
 
 
 <p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
 ### Socials
