@@ -18,11 +18,11 @@ In my professional life, I've had the privilege of contributing to open-source p
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/Indicio-tech/aries-akrida/pull/15) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
-2. 💪 Opened PR [#14](https://github.com/Indicio-tech/aries-akrida/pull/14) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
-3. 💪 Opened PR [#13](https://github.com/Indicio-tech/aries-akrida/pull/13) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
-4. 🗣 Commented on [#11](https://github.com/Indicio-tech/aries-akrida/issues/11) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
-5. 💪 Opened PR [#12](https://github.com/Indicio-tech/aries-akrida/pull/12) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
+1. 🗣 Commented on [#16](https://github.com/hyperledger/aries-akrida/issues/16) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
+2. 💪 Opened PR [#15](https://github.com/Indicio-tech/aries-akrida/pull/15) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
+3. 💪 Opened PR [#14](https://github.com/Indicio-tech/aries-akrida/pull/14) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
+4. 💪 Opened PR [#13](https://github.com/Indicio-tech/aries-akrida/pull/13) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
+5. 🗣 Commented on [#11](https://github.com/Indicio-tech/aries-akrida/issues/11) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
 <!--END_SECTION:activity-->
 
 ### Socials
