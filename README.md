@@ -18,10 +18,10 @@ In my professional life, I've had the privilege of contributing to open-source p
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Indicio-tech/aries-acapy-plugins/pull/4) in [Indicio-tech/aries-acapy-plugins](https://github.com/Indicio-tech/aries-acapy-plugins)
-2. 🎉 Merged PR [#2](https://github.com/anwalker293/aries-akrida/pull/2) in [anwalker293/aries-akrida](https://github.com/anwalker293/aries-akrida)
-3. ❌ Closed PR [#23](https://github.com/hyperledger/aries-akrida/pull/23) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
-4. 🗣 Commented on [#33](https://github.com/hyperledger/aries-akrida/issues/33) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
+1. 💪 Opened PR [#35](https://github.com/hyperledger/aries-akrida/pull/35) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
+2. 💪 Opened PR [#4](https://github.com/Indicio-tech/aries-acapy-plugins/pull/4) in [Indicio-tech/aries-acapy-plugins](https://github.com/Indicio-tech/aries-acapy-plugins)
+3. 🎉 Merged PR [#2](https://github.com/anwalker293/aries-akrida/pull/2) in [anwalker293/aries-akrida](https://github.com/anwalker293/aries-akrida)
+4. ❌ Closed PR [#23](https://github.com/hyperledger/aries-akrida/pull/23) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
 5. 🗣 Commented on [#33](https://github.com/hyperledger/aries-akrida/issues/33) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
 <!--END_SECTION:activity-->
 
