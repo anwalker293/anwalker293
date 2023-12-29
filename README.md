@@ -3,7 +3,7 @@ Hi! I'm Alex!![](https://user-images.githubusercontent.com/18350557/176309783-07
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=31&duration=2500&pause=1000&color=ACBFE6&random=false&width=435&lines=Welcome+to+my+profile+!)](https://git.io/typing-svg)
 
-I'm a QA engineer at Indicio, with a strong foundation in physics, mathematics, and politics from my alma mater, Willamette University. My academic journey included diverse research topics, such as predicting spiral galaxy inclinations using machine learning models, exploring isometric fixing numbers of graphs, and addressing the poverty-to-prison pipeline in Oregon.
+I'm a Software Engineer at Indicio, with a strong foundation in physics, mathematics, and politics from my alma mater, Willamette University. My academic journey included diverse research topics, such as predicting spiral galaxy inclinations using machine learning models, exploring isometric fixing numbers of graphs, and addressing the poverty-to-prison pipeline in Oregon.
 
 In my professional life, I've had the privilege of contributing to open-source projects, including building the 'aries-akrida' repository for the Government of British Columbia and helping build and maintain Aries Cloud Agent Python (ACA-Py). I'm excited to continue expanding my skills in software development and exploring new opportunities in astronomy, cosmology, and beyond.
 
