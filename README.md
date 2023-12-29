@@ -9,8 +9,8 @@ In my professional life, I've had the privilege of contributing to open-source p
 
 * 🌍  I'm presently based in Portland, Oregon
 * ✉️  You can contact me at [alexwalker293@gmail.com](mailto:alexwalker293@gmail.com)
-* 🚀  I'm currently working on sharpening my data structures and algorithms skills
-* 🖥️  I'm learning Three.js
+* 🚀  I'm currently working on creative front-end projects
+* 🖥️  I'm learning Three.js 
 * 🤝  I'm open to collaborating on projects
 
 ---
