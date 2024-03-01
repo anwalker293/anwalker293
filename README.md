@@ -18,11 +18,11 @@ In my professional life, I've had the privilege of contributing to open-source p
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/Indicio-tech/proxy-mediator/pull/44) in [Indicio-tech/proxy-mediator](https://github.com/Indicio-tech/proxy-mediator)
-2. 💪 Opened PR [#43](https://github.com/hyperledger/aries-akrida/pull/43) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
-3. ❌ Closed PR [#6](https://github.com/Indicio-tech/aries-akrida/pull/6) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
-4. 💪 Opened PR [#6](https://github.com/anwalker293/aries-akrida/pull/6) in [anwalker293/aries-akrida](https://github.com/anwalker293/aries-akrida)
-5. 💪 Opened PR [#42](https://github.com/hyperledger/aries-akrida/pull/42) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
+1. 🗣 Commented on [#45](https://github.com/hyperledger/aries-akrida/issues/45) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
+2. 🗣 Commented on [#45](https://github.com/hyperledger/aries-akrida/issues/45) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
+3. 💪 Opened PR [#44](https://github.com/Indicio-tech/proxy-mediator/pull/44) in [Indicio-tech/proxy-mediator](https://github.com/Indicio-tech/proxy-mediator)
+4. 💪 Opened PR [#43](https://github.com/hyperledger/aries-akrida/pull/43) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
+5. ❌ Closed PR [#6](https://github.com/Indicio-tech/aries-akrida/pull/6) in [Indicio-tech/aries-akrida](https://github.com/Indicio-tech/aries-akrida)
 <!--END_SECTION:activity-->
 
 ### Socials
