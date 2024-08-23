@@ -18,11 +18,11 @@ In my professional life, I've had the privilege of contributing to open-source p
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/hyperledger/aries-akrida/issues/69) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
-2. 🗣 Commented on [#67](https://github.com/hyperledger/aries-akrida/issues/67) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
-3. 💪 Opened PR [#68](https://github.com/hyperledger/aries-akrida/pull/68) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
-4. 🗣 Commented on [#66](https://github.com/hyperledger/aries-akrida/issues/66) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
-5. 💪 Opened PR [#67](https://github.com/hyperledger/aries-akrida/pull/67) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
+1. 🎉 Merged PR [#70](https://github.com/hyperledger/aries-akrida/pull/70) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
+2. ❗️ Closed issue [#69](https://github.com/hyperledger/aries-akrida/issues/69) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
+3. 🗣 Commented on [#69](https://github.com/hyperledger/aries-akrida/issues/69) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
+4. 🗣 Commented on [#67](https://github.com/hyperledger/aries-akrida/issues/67) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
+5. 💪 Opened PR [#68](https://github.com/hyperledger/aries-akrida/pull/68) in [hyperledger/aries-akrida](https://github.com/hyperledger/aries-akrida)
 <!--END_SECTION:activity-->
 
 ### Socials
