@@ -1,11 +1,15 @@
 Hi! I'm Alex!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=31&duration=2500&pause=1000&color=ACBFE6&random=false&width=435&lines=Welcome+to+my+profile+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=31&duration=2500&pause=1000&color=4ba5b3&random=false&width=435&lines=Welcome+to+my+profile+!)](https://git.io/typing-svg)
 
-I'm a Software Engineer at Indicio, with a strong foundation in physics, mathematics, and politics from my alma mater, Willamette University. My academic journey included diverse research topics, such as predicting spiral galaxy inclinations using machine learning models, exploring isometric fixing numbers of graphs, and tackling the poverty-to-prison pipeline in Oregon.
+Hi! I'm Alex, a Software Engineer at Indicio and a Website Developer at Lake Grove Web Designs. I'm passionate about helping businesses shine online with fast, stunning, and high-performing websites. 
 
-In my professional life, I've had the privilege of contributing to open-source projects, including building the 'aries-akrida' repository for the Government of British Columbia and helping build and maintain Aries Cloud Agent Python (ACA-Py). I'm excited to continue expanding my skills in software development and exploring new opportunities in astronomy, cosmology, and beyond.
+In my professional work, I've been fortunate to contribute to open-source projects, like building the 'aries-akrida' repository for the Government of British Columbia and supporting the development of Aries Cloud Agent Python (ACA-Py). Most of my work, however, focuses on proprietary projects at Indicio, particularly on their Proven product.
+
+At Willamette University, I built a solid foundation in physics, mathematics, and politics, which deepened my technical skills and feature implementation capabilities. My academic journey also led me through diverse research projects, from predicting spiral galaxy inclinations with machine learning to studying graph theory and exploring social issues like the poverty-to-prison pipeline in Oregon.
+
+Want to learn more about my work? Visit my portfolio at https://alexandra-n-walker.com/. I’m always open to new connections and collaborations!
 
 * 🌍  I'm presently based in Portland, Oregon
 * ✉️  You can contact me at [alexwalker293@gmail.com](mailto:alexwalker293@gmail.com)
